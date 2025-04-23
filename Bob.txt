@@ -1,2 +1,4 @@
 Hi, I'm Bob. I'm new here.
 I have changed something.
+
+This line is written in master.
